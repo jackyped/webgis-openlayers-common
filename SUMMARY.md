@@ -18,7 +18,7 @@
 * [白板标绘](bai-ban-biao-hui.md)
 * [专题制图](zhuan-ti-zhi-tu.md)
 * [视频监控列表](shi-pin-jian-kong-lie-biao.md)
-* 视频播放
+* [视频播放](shi-pin-bo-fang.md)
 * [查询分析](cha-xun-fen-xi.md)
 * 地名模糊查询
 * 经纬度查附近地名
