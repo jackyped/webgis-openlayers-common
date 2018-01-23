@@ -24,7 +24,7 @@
 * [经纬度查附近地名](jing-wei-du-cha-fu-jin-di-ming.md)
 * [经纬度定位](jing-wei-du-ding-wei.md)
 * [生成缓冲区](sheng-cheng-huan-chong-qu.md)
-* 周边查询
+* [周边查询](zhou-bian-cha-xun.md)
 * 缓冲区查询
 * [最优路径分析](zui-you-lu-jing-fen-xi.md)
 * 设施服务范围分析
