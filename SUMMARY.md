@@ -22,7 +22,7 @@
 * [查询分析](cha-xun-fen-xi.md)
 * [地名模糊查询](di-ming-mo-hu-cha-xun.md)
 * [经纬度查附近地名](jing-wei-du-cha-fu-jin-di-ming.md)
-* 经纬度定位
+* [经纬度定位](jing-wei-du-ding-wei.md)
 * 生成缓冲区
 * 周边查询
 * 缓冲区查询
