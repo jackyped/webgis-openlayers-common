@@ -7,7 +7,7 @@
 * [比例尺显示组件](bi-li-chi-xian-shi-zu-jian.md)
 * [行政区划切换组件](xing-zheng-qu-hua-qie-huan-zu-jian.md)
 * [图层管理组件](tu-ceng-guan-li-zu-jian.md)
-* 底图切换组件
+* [底图切换组件](di-tu-qie-huan-zu-jian.md)
 * 鹰眼图组件
 * [测量长度](ce-liang-gong-neng.md)
 * 测量面积
