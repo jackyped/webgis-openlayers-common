@@ -15,7 +15,7 @@
 * [标绘工具箱](biao-hui-gong-ju-xiang.md)
 * [标绘保存](biao-hui-bao-cun.md)
 * [常用标绘配置](chang-yong-biao-hui-pei-zhi.md)
-* 白板标绘
+* [白板标绘](bai-ban-biao-hui.md)
 * 专题制图
 * 视频监控列表
 * 视频播放
