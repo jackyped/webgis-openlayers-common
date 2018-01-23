@@ -28,5 +28,5 @@
 * [缓冲区查询](huan-chong-qu-cha-xun.md)
 * [最优路径分析](zui-you-lu-jing-fen-xi.md)
 * [设施服务范围分析](she-shi-fu-wu-fan-wei-fen-xi.md)
-* 最邻近设施分析
+* [最邻近设施分析](zui-lin-jin-she-shi-fen-xi.md)
 
