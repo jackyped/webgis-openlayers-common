@@ -4,7 +4,7 @@
 * [通用功能](chapter1.md)
 * [地图操作命令类](di-tu-cao-zuo-ming-ling-lei.md)
 * [坐标显示组件](zuo-biao-xian-shi-zu-jian.md)
-* 比例尺显示组件
+* [比例尺显示组件](bi-li-chi-xian-shi-zu-jian.md)
 * 行政区划切换组件
 * 图层管理组件
 * 底图切换组件
