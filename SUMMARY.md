@@ -13,7 +13,7 @@
 * [测量面积](ce-liang-mian-ji.md)
 * [高级功能](gao-ji-gong-neng.md)
 * [标绘工具箱](biao-hui-gong-ju-xiang.md)
-* 标绘保存
+* [标绘保存](biao-hui-bao-cun.md)
 * 常用标绘配置
 * 白板标绘
 * 专题制图
