@@ -1,7 +1,7 @@
 # Summary
 
 * [项目背景](README.md)
-* [通用功能](chapter1.md)
+* [通用功能](tong-yong-gong-neng.md)
 * [地图操作命令类](di-tu-cao-zuo-ming-ling-lei.md)
 * [坐标显示组件](zuo-biao-xian-shi-zu-jian.md)
 * [比例尺显示组件](bi-li-chi-xian-shi-zu-jian.md)
