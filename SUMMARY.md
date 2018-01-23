@@ -10,7 +10,7 @@
 * [底图切换组件](di-tu-qie-huan-zu-jian.md)
 * [鹰眼图组件](ying-yan-tu-zu-jian.md)
 * [测量长度](ce-liang-gong-neng.md)
-* 测量面积
+* [测量面积](ce-liang-mian-ji.md)
 * 高级功能
 * 标绘工具箱
 * 标绘保存
