@@ -20,7 +20,7 @@
 * [视频监控列表](shi-pin-jian-kong-lie-biao.md)
 * [视频播放](shi-pin-bo-fang.md)
 * [查询分析](cha-xun-fen-xi.md)
-* 地名模糊查询
+* [地名模糊查询](di-ming-mo-hu-cha-xun.md)
 * 经纬度查附近地名
 * 经纬度定位
 * 生成缓冲区
